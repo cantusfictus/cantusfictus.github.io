@@ -6,8 +6,28 @@
     <description>Recent content in Posts on Thoughts on various things</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +1100</lastBuildDate>
     <atom:link href="https://cantusfictus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pitfalls on starting a static blog in 2026</title>
+      <link>https://cantusfictus.github.io/posts/pitfalls/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +1100</pubDate>
+      <guid>https://cantusfictus.github.io/posts/pitfalls/</guid>
+      <description>&lt;p&gt;Starting a Hugo blog on github turns out to be not entirely trivial,
+and one can just fall through the cracks of the documentation when
+doing simple things, as I found out&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; can be downloaded as a single static binary, and getting started
+is simple enough with the &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;quickstart&lt;/a&gt; guide. I chose &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;PaperMod&lt;/a&gt;, one of
+the most popular themes. Then the confusions began&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;An example configuration file &lt;code&gt;hugo.yaml&lt;/code&gt; is listed on the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/wiki/Installation&#34;&gt;install
+page&lt;/a&gt; of the wiki. The same page also guides users to the source of
+the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite&#34;&gt;example website&lt;/a&gt;, which has a different &lt;code&gt;hugo.yaml&lt;/code&gt;. I picked
+the example in the wiki because it&amp;rsquo;s shorter, but both are
+functional.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Montaigne on his essays</title>
       <link>https://cantusfictus.github.io/posts/montaigne/</link>

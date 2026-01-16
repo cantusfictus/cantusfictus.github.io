@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cantusfictus.github.io/posts/pitfalls/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
     <loc>https://cantusfictus.github.io/posts/montaigne/</loc>
     <lastmod>2026-01-13T00:00:00+11:00</lastmod>
   </url><url>
+    <loc>https://cantusfictus.github.io/tags/blogging/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
     <loc>https://cantusfictus.github.io/categories/</loc>
-    <lastmod>2026-01-13T00:00:00+11:00</lastmod>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://cantusfictus.github.io/tags/github/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://cantusfictus.github.io/posts/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://cantusfictus.github.io/categories/software/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://cantusfictus.github.io/tags/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://cantusfictus.github.io/</loc>
+    <lastmod>2026-01-17T00:00:00+11:00</lastmod>
   </url><url>
     <loc>https://cantusfictus.github.io/categories/florilegium/</loc>
     <lastmod>2026-01-13T00:00:00+11:00</lastmod>
   </url><url>
-    <loc>https://cantusfictus.github.io/posts/</loc>
-    <lastmod>2026-01-13T00:00:00+11:00</lastmod>
-  </url><url>
     <loc>https://cantusfictus.github.io/tags/renaissance/</loc>
-    <lastmod>2026-01-13T00:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://cantusfictus.github.io/tags/</loc>
-    <lastmod>2026-01-13T00:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://cantusfictus.github.io/</loc>
     <lastmod>2026-01-13T00:00:00+11:00</lastmod>
   </url><url>
     <loc>https://cantusfictus.github.io/tags/writing/</loc>
